@@ -1,0 +1,1 @@
+import{l as e,f as t,g as r}from"./framework.ec9dd1f1.js";const l='{"title":"","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1609764932856}',a={},d=r("p",null,"��#� �H�e�l�l�o� �V�i�t�e�P�r�e�s�s� � �",-1);a.render=function(r,l,a,n,o,i){return e(),t("div",null,[d])};export default a;export{l as __pageData};
