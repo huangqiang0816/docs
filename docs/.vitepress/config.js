@@ -1,3 +1,5 @@
 module.exports = {
-    base: '/docs/'
-}
+  base: "/docs/",
+  title: "Hello VitePress",
+  description: "Just playing around.",
+};
