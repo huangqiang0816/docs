@@ -4,15 +4,15 @@
   "description": "study demo and notes",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "start": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
   },
   "homepage": "https://huangqiang0816.github.io/docs/",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^0.10.6"
+    "vitepress": "^0.10.7"
   }
 }
